@@ -1,1 +1,0 @@
-console.error("Error: Cannot find module '/Users/toubou91/git/test/test/all_spec.js' from '/Users/toubou91/git/test'");
