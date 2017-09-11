@@ -8,3 +8,4 @@ node_modules
 # App packaged
 dist
 .idea
+npm-bedug.log
