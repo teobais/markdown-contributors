@@ -3,9 +3,9 @@
 
 > This is a beta version.
 
-You can follow me on [Twitter](https://twitter.com/ThodorisBais).
+You can follow me on [Twitter](https://twitter.com/thodorisbais).
 
-[YouTube Demo](https://youtu.be/d8TG7oy8yZs) | [Demo Website](https://toubou91.github.io/markdown-contributors/)
+[YouTube Demo](https://youtu.be/d8TG7oy8yZs) | [Demo Website](https://thodorisbais.github.io/markdown-contributors/)
 
 ### Demo
 [![https://gyazo.com/4fc3f2e3bffde5aa6389a9814bccc09d](https://i.gyazo.com/4fc3f2e3bffde5aa6389a9814bccc09d.gif)](https://gyazo.com/4fc3f2e3bffde5aa6389a9814bccc09d)
